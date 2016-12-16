@@ -5,8 +5,7 @@
 
 namespace T4\Fann\Topology\Core\Exception;
 
-
-class LogicException extends \LogicException
+class InvalidArgumentException extends \InvalidArgumentException
 {
 
 }

@@ -9,6 +9,7 @@ namespace T4\Fann\Topology\Core;
 interface NeuronVisitorInterface
 {
 
+
     /**
      * @param Neuron $neuron
      * @return void

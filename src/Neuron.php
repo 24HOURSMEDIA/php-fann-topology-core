@@ -11,6 +11,7 @@ use T4\Fann\Topology\Core\Exception\LogicException;
 class Neuron
 {
 
+
     const TYPE_INPUT = 1;
     const TYPE_HIDDEN = 2;
     const TYPE_OUTPUT = 3;

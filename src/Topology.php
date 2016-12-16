@@ -5,9 +5,9 @@
 
 namespace T4\Fann\Topology\Core;
 
-
 use T4\Fann\Topology\Core\Exception\InvalidArgumentException;
 use T4\Fann\Topology\Core\Exception\LogicException;
+
 
 /**
  * Class Topology

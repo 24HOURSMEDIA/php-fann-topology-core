@@ -9,6 +9,7 @@ namespace T4\Fann\Topology\Core;
 class Layer
 {
 
+
     const TYPE_INPUT = 1;
     const TYPE_HIDDEN = 2;
     const TYPE_OUTPUT = 3;

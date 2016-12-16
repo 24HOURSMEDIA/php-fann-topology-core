@@ -9,6 +9,7 @@ namespace T4\Fann\Topology\Core;
 class Connection
 {
 
+
     /**
      * @var float
      */

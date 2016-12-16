@@ -11,6 +11,7 @@ class ActivationFunction
 
     const FANN_AF_NONE = 4294967295;
 
+
     const FANN_AF_SIGMOID = 3;
     const FANN_AF_SIGMOID_STEPWISE = 4;
     const FANN_AF_SIGMOID_SYMMETRIC = 5;
