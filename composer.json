@@ -3,7 +3,7 @@
   "description": "topology library for php fann",
   "autoload": {
     "psr-4": {
-      "Fann\\Topology\\Core\\" : "src"
+      "T4\\Fann\\Topology\\Core\\" : "src"
     }
   },
   "require": {
