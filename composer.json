@@ -1,6 +1,12 @@
 {
   "name": "24hoursmedia/php-fann-topology-core",
-  "description": "topology library for php fann"
-
-
+  "description": "topology library for php fann",
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+  "require": {
+    "php": ">=5.6"
+  }
 }
