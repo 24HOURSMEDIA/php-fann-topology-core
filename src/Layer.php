@@ -6,6 +6,7 @@
 namespace T4\Fann\Topology\Core;
 
 
+
 class Layer
 {
 
