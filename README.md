@@ -1,4 +1,9 @@
 # php-fann-topology-core
+
+[![Code Climate](https://codeclimate.com/github/24HOURSMEDIA/php-fann-topology-core/badges/gpa.svg)](https://codeclimate.com/github/24HOURSMEDIA/php-fann-topology-core)
+[![Test Coverage](https://codeclimate.com/github/24HOURSMEDIA/php-fann-topology-core/badges/coverage.svg)](https://codeclimate.com/github/24HOURSMEDIA/php-fann-topology-core/coverage)
+
+
 create a topological representation of the neurons and connections in a FANN network
 
 ## Installation
